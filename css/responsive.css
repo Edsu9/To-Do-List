@@ -1,0 +1,17 @@
+@media (max-width: 576px) {
+    .login-container, .dashboard-container {
+        padding: 15px;
+    }
+
+    h2, .card-title {
+        font-size: 1.5rem;
+    }
+
+    .btn {
+        font-size: 0.8rem;
+    }
+
+    .copyright {
+        font-size: 0.7rem;
+    }
+}
